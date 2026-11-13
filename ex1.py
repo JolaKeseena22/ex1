@@ -1,2 +1,3 @@
-print("Welcome to GitHub")
-print("My first DevOps experiment")
+print("Welcome to Git")
+print("Git tracks code changes")
+print("Learning Git branching and merging")
